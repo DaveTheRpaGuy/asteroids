@@ -1,2 +1,2 @@
 # asteroids
-I am slightly unsure what I'm doing
+Remember to run this command before running the game: source venv/bin/activate
